@@ -2,4 +2,5 @@ Historia1.txt
 Esta es la historia de Fernando
 Tengo 36 años
 Y me gusta viajar por el mundo
+Hoy hablaremos de su vida
 Saludos
