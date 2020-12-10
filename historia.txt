@@ -1,0 +1,3 @@
+historia.txt
+Esta es la historia de Fernando
+Tengo 36 años y vivo en Lima
